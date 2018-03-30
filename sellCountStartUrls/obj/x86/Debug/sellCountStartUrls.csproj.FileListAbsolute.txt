@@ -1,0 +1,35 @@
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe.config
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.pdb
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.dataToRedis.resources
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Form1.resources
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Properties.Resources.resources
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.csproj.GenerateResource.Cache
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.exe
+E:\C#code\work\DPC数据采集\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.pdb
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe.config
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.exe
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.pdb
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.pdb
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.dataToRedis.resources
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Form1.resources
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Properties.Resources.resources
+C:\Users\Administrator\Desktop\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.csproj.GenerateResource.Cache
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe.config
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.exe
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.pdb
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.pdb
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.dataToRedis.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Form1.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Properties.Resources.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.csproj.GenerateResource.Cache
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.Formmjw.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.hhh.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.NewUrl.resources
+E:\A工作文件\交接文档\C#项目\03 - 天猫日报月报URL推送\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.csprojResolveAssemblyReference.cache
+F:\sellCountStartUrls\sellCountStartUrls\bin\Debug\sellCountStartUrls.exe.config
+F:\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.exe
+F:\sellCountStartUrls\sellCountStartUrls\obj\x86\Debug\sellCountStartUrls.pdb

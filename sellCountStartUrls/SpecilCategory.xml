@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Special id ="category">
+  <!--需要一周采集一次的品类：每周一的凌晨00点发布url采集任务-->
+  <WeekCategory name ="weekcategory">
+    <c>('智能马桶')</c>
+  </WeekCategory>
+  <!--<MonthCategory name="monthcategory">
+    --><!--需要一个月采集一次的品类：先暂时不用，因为采集程序 是往前推 7天，故一周采集一次--><!--
+    <c>('冰箱','彩电','空调')</c>
+  </MonthCategory>-->
+  <!--2018年开始 天猫评论只做这几个品类的语义,下半年也会取消采集：品类 in() AND 电商='天猫商城'-->
+  <TMCategory name="tmcategory">
+    <c>('电风扇','电暖器','彩电','净化器')</c>
+  </TMCategory>
+</Special>
